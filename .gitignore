@@ -28,3 +28,11 @@
 *.gui
 *.pdb
 *.zip
+.dub/*
+/.#readme.md
+/GPATH
+/GRTAGS
+/GTAGS
+/dub.selections.json
+examples/simple/.dub/*
+/examples/simple/dub.selections.json
